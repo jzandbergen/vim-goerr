@@ -1,9 +1,3 @@
-> **Warning**
-> This script has issues, when switching between buffers more and
-> more stuff get's folded. Whoops! I will surely fix this later nod, nod,
-> wink, wink.
-
-
 # vim-goerr
 The plugin folds Go's if `err != nil` and shows other lines like in Goland, 
 it greatly reduces code length and doesn't affect readability.
