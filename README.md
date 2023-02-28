@@ -1,4 +1,4 @@
-> **warning**
+> **Warning**
 > This script has issues, when switching between buffers more and
 > more stuff get's folded. Whoops! I will surely fix this later nod, nod,
 > wink, wink.
